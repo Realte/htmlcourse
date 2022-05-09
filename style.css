@@ -1,16 +1,27 @@
 h1{
   color:pink;
+  font-style:normal;
+  font-variant:small-caps;
+  text-align:center;
+  
 }
 h2{
   color:#8A00FB;
+  font-style:italic;
+  font-variant:normal;
 }
 h3{
-  color:red;
+  color:rgba(120,250,0,.7);
+  font-style:oblique
 }
 body{
   background-color:black;
   color:white;
+  font-family: Arial !important;
+  text-align:justify;
 }
 a{
-  color:#8A90FC
+  color:#8A90FC;
+    font-style:oblique;
+  line-height:200%
 }
